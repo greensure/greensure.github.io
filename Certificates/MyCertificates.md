@@ -1,5 +1,4 @@
 
-
 # Professional Certificate
 Currently working on getting AWS Certified Solutions Architect
 
