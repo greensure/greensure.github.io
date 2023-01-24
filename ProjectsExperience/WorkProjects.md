@@ -1,10 +1,10 @@
+[toc]
 
+<!-- > Compressor Selection Platform   -->
 
-> Compressor Selection Platform  
+### Compressor Selection System | Shanghai Highly Electric Co., Ltd. | Apr. 2019 - Mar. 2020
 
-> Compressor Selection System | Shanghai Highly Electric Co., Ltd. | Apr. 2019 - Mar. 2020
-
-> My Responsibilities
+#### My Responsibilities
 
 - Provided estimates for web application development & test. Selected libraries and open-source technologies for project integration. Oversaw full lifecycle of software development with on-time delivery while staying 5% under budget.
 
@@ -14,7 +14,7 @@
 
 - Supported building & deployment of new products and features & tests. Implemented and executed Stress Testing on high-concurrency interfaces by Apache JMeter, Swagger, Postman.
 
-> Dev Language & Tools
+#### Dev Language & Tools
 
 - **Back End & Datebase:** J2EE, Spring Boot, Apache Maven, Mybatis, PostgreSQL, Swagger, Postman.
 
@@ -24,9 +24,9 @@
 
 - **Other Tools:** UML, SVN, Git, GitHub
 
-> Compressor Selection Fitting System | Shanghai Highly Electric Co., Ltd. | Apr. 2020 - Sep. 2021
+### Compressor Selection Fitting System | Shanghai Highly Electric Co., Ltd. | Apr. 2020 - Sep. 2021
 
-> My Responsibilities
+#### My Responsibilities
 - Set up Development Environment, Production Environment on Linux CentOS 7 & Window Sever.
 
 - Constructed back-end project from scratch by Python, Flask.
@@ -39,7 +39,7 @@ Inconsistent Data Entry etc.
 - Data Visualization by Python (seaborn, missingno) and Vue Js. Related plots: 
 Line Charts, Bar Charts and Heatmaps, Scatter Plots, Distributions.
 
-> Dev Language & Tools
+#### Dev Language & Tools
 - **Back End & Database:** Python 3 (Pandas, NumPy, seaborn, missingno), Flask, PostgreSQL
 
 - **Front End:** JavaScript, HTML, CSS, Vue JS, Swagger, Postman etc.
@@ -48,9 +48,9 @@ Line Charts, Bar Charts and Heatmaps, Scatter Plots, Distributions.
 
 
 
-> Intelligent Logistics Shortest Path Optimization System | Mathart Software Co., Ltd. | May. 2018 - Dec. 2018
+### Intelligent Logistics Shortest Path Optimization System | Mathart Software Co., Ltd. | May. 2018 - Dec. 2018
 
-> My Responsibilities
+#### My Responsibilities
 
 - Utilized Java, Spring Boot, Apache Maven, Mybatis to develop interface for handling batch data from other systems.
 
@@ -60,7 +60,7 @@ Line Charts, Bar Charts and Heatmaps, Scatter Plots, Distributions.
 
 - Unit test via TestNG
 
-> Dev Language & Tools
+#### Dev Language & Tools
 
 - **Back End & Datebase:** Java, Spring Boot, Apache Maven, Mybatis, Oracle Database, Swagger, Postman.
 
