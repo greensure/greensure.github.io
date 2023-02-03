@@ -1,3 +1,11 @@
+<!--
+ * @Author: greensure 16623234+greensure@users.noreply.github.com
+ * @Date: 2023-01-19 22:14:25
+ * @LastEditors: greensure 16623234+greensure@users.noreply.github.com
+ * @LastEditTime: 2023-01-25 08:41:35
+ * @FilePath: \greensure.github.io\ProjectsExperience\WorkProjects.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 
 [toc]
 
@@ -7,7 +15,9 @@
 
 #### My Responsibilities
 
-- Provided estimates for web application development & test. Selected libraries and open-source technologies for project integration. Oversaw full lifecycle of software development with on-time delivery while staying 5% under budget.
+- Coordinated with cross-functional teams & Led a team of software developers and testers. Provided estimates for web application development & test. 
+
+- Research & Selected libraries and open-source technologies for project integration. Oversaw full lifecycle of software development with on-time delivery while staying 5% under budget.
 
 - Designed scalable service architecture. Re-architected old and complex applications by applying a unifying framework (Spring Boot, Vue JS). Improved operational efficiency, reliability, adaptability. Decreased user complaints by 65% and reduced the cost of operation & maintenance by 15% from 2020 to 2021.
 
